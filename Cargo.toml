@@ -1,0 +1,8 @@
+[package]
+name = "teoptool"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+elf = "0.7.4"
+iced-x86 = "1.21.0"
